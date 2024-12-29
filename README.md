@@ -1,2 +1,9 @@
 # coffeeshop
-front end coding of coffee shop website would look like
+Coffee shop website. 
+
+------------------------------------------
+Language used
+FrontEnd: HTML, CSS
+BackEnd: Javascript , phpMyAdmin
+-----------------------------------------
+
